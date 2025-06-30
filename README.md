@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasant Sarswat</h1>
 <h3 align="center">Recent graduate with strong expertise in HTML, CSS, and JavaScript, seeking to leverage technical skills and passion for web development to drive team efficiency. Proactively pursuing roles in the web development sector to contribute to innovative projects and expand professional horizons.</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/c7ccec9c-a2bb-41bb-9daf-3609d12c0bda/thumbnail" >
 </p>
 
