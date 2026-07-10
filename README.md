@@ -2,6 +2,11 @@
 Data Analyst with a strong foundation in SQL, Python, Excel. Skilled in cleaning, analyzing, and visualizing data to generate insights and support data-driven decision-making. Interested in collaborating on meaningful analytical work in fast-paced environments.
 
 
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/c7ccec9c-a2bb-41bb-9daf-3609d12c0bda/thumbnail" >
+</p>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prasant-sarswat-24b96b12b) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/prashant9321) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8583474) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prasant324@gmail.com) 
 
